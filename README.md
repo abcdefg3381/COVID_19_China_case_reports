@@ -4,10 +4,23 @@ This project holds the data curated from daily COVID-19 cases that are publicly 
 
 ## A brief description
 
-Chinese prefectural level governments started to report daily confirmed cases starting from January 2020. The disclosures may contain the mobility, potential exposure scenario, epidemiological characteristics, and other useful information of individual cases. We organized a group of information coders since early March 2020, kept monitoring the information updates, and manually extracted useful information from the public disclosures.
+Chinese prefectural level governments started to report daily confirmed cases online, starting from January 2020. The disclosures may contain the mobility, potential exposure scenario, epidemiological characteristics, and other useful information of individual cases. We organized a group of information coders since early March 2020, kept monitoring the information updates, and manually extracted useful information from the public disclosures.
+
 We welcome any form of collaborations with us and non-commercial reuse of our dataset. We highly encourage interested parties to examine the data, report errors in our coding, and help us to keep the data updated.
 
 The detailed data description can be found on SSRN preprint server https://dx.doi.org/10.2139/ssrn.3705815.
+
+## File name explanation
+
+* **data_sources.csv:** the URLs to online disclosure venues.
+
+* **dataset CH+EN.xlsx:** coded information in both Chinese and English.
+
+* **dataset EN.csv:** coded information in English.
+
+* **reasons_for_missing_data.csv:** The reasons of missing cases in some prefecturals.
+
+*CSV files use semicolon as the separator.
 
 ## Suggested citation
 Liu, Xiao Fan and Xu, Xiao-Ke and Wu, Ye, Mobility, Exposure, and Epidemiological Timelines of COVID-19 Infections in China outside Hubei Province (August 27, 2020). Available at SSRN: https://ssrn.com/abstract=3705815 or http://dx.doi.org/10.2139/ssrn.3705815 
