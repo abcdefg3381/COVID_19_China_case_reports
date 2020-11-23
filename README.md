@@ -1,10 +1,10 @@
 # COVID-19 Case Reports in China
 
-This project holds the data curated from daily COVID-19 cases that are publicly disclosed by local health committees in China outside Hubei Province, starting from January 2019.
+This project holds the data curated from daily COVID-19 case reports that are publicly disclosed by local health committees in China outside Hubei Province, starting January 2019.
 
 ## A brief description
 
-Chinese prefectural level governments started to report daily confirmed cases online, starting from January 2020. The disclosures may contain the mobility, potential exposure scenario, epidemiological characteristics, and other useful information of individual cases. We organized a group of information coders since early March 2020, kept monitoring the information updates, and manually extracted useful information from the public disclosures.
+Chinese prefectural level governments started to report daily confirmed COVID-19 cases online, starting from January 2020. The disclosures may contain the mobility, potential exposure scenario, epidemiological characteristics, and other useful information of individual cases. We organized a group of content coders since early March 2020, kept monitoring the information updates, manually extracted useful information from the public disclosures, and compiled these datasets.
 
 We welcome any form of collaborations with us and non-commercial reuse of our dataset. We highly encourage interested parties to examine the data, report errors in our coding, and help us to keep the data updated.
 
