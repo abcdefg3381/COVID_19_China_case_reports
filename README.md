@@ -14,11 +14,9 @@ The detailed data description can be found on SSRN preprint server https://dx.do
 
 * **data_sources.csv:** the URLs to online disclosure venues.
 
-* **dataset CH+EN.xlsx:** coded information in both Chinese and English.
-
 * **dataset EN.csv:** coded information in English.
 
-* **reasons_for_missing_data.csv:** The reasons of missing cases in some prefecturals.
+* **reasons_for_missing_data.csv:** The reasons for missing cases in some prefecturals.
 
 *CSV files use semicolon as the separator.
 
