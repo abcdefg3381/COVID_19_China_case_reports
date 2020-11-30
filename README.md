@@ -18,8 +18,6 @@ The detailed data description can be found on SSRN preprint server https://dx.do
 
 * **reasons_for_missing_data.csv:** The reasons for missing cases in some prefecturals.
 
-*CSV files use semicolon as the separator.
-
 ## Suggested citation
 Liu, Xiao Fan and Xu, Xiao-Ke and Wu, Ye, Mobility, Exposure, and Epidemiological Timelines of COVID-19 Infections in China outside Hubei Province (August 27, 2020). Available at SSRN: https://ssrn.com/abstract=3705815 or http://dx.doi.org/10.2139/ssrn.3705815 
 
