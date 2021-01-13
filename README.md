@@ -22,4 +22,4 @@ The detailed data description can be found on SSRN preprint server https://dx.do
 Liu, Xiao Fan and Xu, Xiao-Ke and Wu, Ye, Mobility, Exposure, and Epidemiological Timelines of COVID-19 Infections in China outside Hubei Province (August 27, 2020). Available at SSRN: https://ssrn.com/abstract=3705815 or http://dx.doi.org/10.2139/ssrn.3705815 
 
 ## License
-This project is licensed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0) license. View license Deed https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en and Legal Code https://creativecommons.org/licenses/by-nc/4.0/legalcode.
+This project is licensed under the terms of the Creative Commons Attribution 4.0 International (CC BY 4.0) license. View license Deed https://creativecommons.org/licenses/by/4.0/deed.en and Legal Code https://creativecommons.org/licenses/by/4.0/legalcode.
