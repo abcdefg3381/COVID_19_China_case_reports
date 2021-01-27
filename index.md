@@ -1,8 +1,3 @@
-```
- 
- 
-```
- 
 ## COVID-19 Case Reports in China
 
 This project holds the data curated from daily COVID-19 case reports that are publicly disclosed by local health committees in China outside Hubei Province, starting January 2019.
