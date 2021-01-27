@@ -1,25 +1,29 @@
-## COVID-19 Case Reports in China
+## What you are expected to find in our datasets
+Chinese prefectural level governments started to report details of confirmed COVID-19 cases online on a daily basis, starting from January 2020. The disclosures may contain the mobility, potential exposure scenario, epidemiological characteristics, and other useful information of individual cases. A detailed data description can be found on [SSRN preprint server](https://dx.doi.org/10.2139/ssrn.3705815).
 
-This project holds the data curated from daily COVID-19 case reports that are publicly disclosed by local health committees in China outside Hubei Province, starting January 2019.
+We organized a group of content coders since early March 2020, kept monitoring the information updates, manually extracted useful information from the public disclosures, and compiled these datasets.
 
-### A brief description
+## Call for help
+Fighting COVID-19 is a course for the entire human species. We welcome any form of collaborations with us and reuse of our dataset. We highly encourage interested parties to help examine the data, report errors in our coding, and help us to keep the data updated.
 
-Chinese prefectural level governments started to report daily confirmed COVID-19 cases online, starting from January 2020. The disclosures may contain the mobility, potential exposure scenario, epidemiological characteristics, and other useful information of individual cases. We organized a group of content coders since early March 2020, kept monitoring the information updates, manually extracted useful information from the public disclosures, and compiled these datasets.
-
-We welcome any form of collaborations with us and non-commercial reuse of our dataset. We highly encourage interested parties to examine the data, report errors in our coding, and help us to keep the data updated.
-
-The detailed data description can be found on [SSRN preprint server](https://dx.doi.org/10.2139/ssrn.3705815).
-
-### File name explanation
-
+## File usage
 * `data_sources.csv`: the URLs to online disclosure venues.
 
 * `dataset EN.csv`: coded information in English.
 
 * `reasons_for_missing_data.csv`: The reasons for missing cases in some prefecturals.
 
-### Suggested citation
+## Data curators
+Prof. Xiao-Ke Xu, Dalian Minzu University, China
+
+Prof. Ye Wu, Beijing Normal University, China
+
+Dr. Xiaofan Liu, City University of Hong Kong, China
+
+Special thanks to the the research assistants for their relentless efforts!
+
+## Suggested citation
 Liu, Xiao Fan and Xu, Xiao-Ke and Wu, Ye, Mobility, Exposure, and Epidemiological Timelines of COVID-19 Infections in China outside Hubei Province (August 27, 2020). Available at SSRN: https://ssrn.com/abstract=3705815 or http://dx.doi.org/10.2139/ssrn.3705815 
 
-### License
+## License
 This project is licensed under the terms of the Creative Commons Attribution 4.0 International (CC BY 4.0) license. View [license Deed](https://creativecommons.org/licenses/by/4.0/deed.en) and [Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode).
