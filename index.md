@@ -9,6 +9,7 @@ A detailed data description can be found on [SSRN preprint server](https://dx.do
 Fighting COVID-19 is a course for the entire human species. We welcome any form of collaborations with us and reuse of our dataset. We highly encourage interested parties to help examine the data, report errors in our coding, and help us to keep the data updated.
 
 ## File usage
+The datasets are stored on our [GitHub repository](https://github.com/abcdefg3381/COVID_19_China_case_reports).
 * `data_sources.csv`: the URLs to online disclosure venues.
 
 * `dataset EN.csv`: coded information in English.
