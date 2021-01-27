@@ -1,7 +1,9 @@
 ## What you are expected to find in our datasets
-Chinese prefectural level governments started to report details of confirmed COVID-19 cases online on a daily basis, starting from January 2020. The disclosures may contain the mobility, potential exposure scenario, epidemiological characteristics, and other useful information of individual cases. A detailed data description can be found on [SSRN preprint server](https://dx.doi.org/10.2139/ssrn.3705815).
+Chinese prefectural level governments started to report details of confirmed COVID-19 cases online on a daily basis, starting from January 2020. The disclosures may contain the mobility, potential exposure scenario, epidemiological characteristics, and other useful information of individual cases.
 
-We organized a group of content coders since early March 2020, kept monitoring the information updates, manually extracted useful information from the public disclosures, and compiled these datasets.
+We organized a group of content coders since early March 2020, kept monitoring updates from the local health committees (except for the ones in Hubei Province), manually extracted useful information from the public disclosures, and compiled a line-list dataset. The dataset now contains 10,000+ cases and counting.
+
+A detailed data description can be found on [SSRN preprint server](https://dx.doi.org/10.2139/ssrn.3705815).
 
 ## Call for help
 Fighting COVID-19 is a course for the entire human species. We welcome any form of collaborations with us and reuse of our dataset. We highly encourage interested parties to help examine the data, report errors in our coding, and help us to keep the data updated.
@@ -14,11 +16,11 @@ Fighting COVID-19 is a course for the entire human species. We welcome any form 
 * `reasons_for_missing_data.csv`: The reasons for missing cases in some prefecturals.
 
 ## Data curators
-Prof. Xiao-Ke Xu, Dalian Minzu University, China
+[Prof. Xiao-Ke Xu](http://www.bigdataanalysis.xyz/test/testShow?name=Xiaoke%20Xu), Dalian Minzu University, China
 
-Prof. Ye Wu, Beijing Normal University, China
+[Prof. Ye Wu](https://sjc.bnu.edu.cn/sztd/jsdw2/js/29551.html), Beijing Normal University, China
 
-Dr. Xiaofan Liu, City University of Hong Kong, China
+[Dr. Xiaofan Liu](http://www.cityu.edu.hk/com/Profile.aspx?u=xliu347), City University of Hong Kong, China
 
 Special thanks to the the research assistants for their relentless efforts!
 
