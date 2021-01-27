@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## COVID-19 Case Reports in China
 
-You can use the [editor on GitHub](https://github.com/abcdefg3381/COVID-19_China_case_reports/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This project holds the data curated from daily COVID-19 case reports that are publicly disclosed by local health committees in China outside Hubei Province, starting January 2019.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### A brief description
 
-### Markdown
+Chinese prefectural level governments started to report daily confirmed COVID-19 cases online, starting from January 2020. The disclosures may contain the mobility, potential exposure scenario, epidemiological characteristics, and other useful information of individual cases. We organized a group of content coders since early March 2020, kept monitoring the information updates, manually extracted useful information from the public disclosures, and compiled these datasets.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We welcome any form of collaborations with us and non-commercial reuse of our dataset. We highly encourage interested parties to examine the data, report errors in our coding, and help us to keep the data updated.
 
-```markdown
-Syntax highlighted code block
+The detailed data description can be found on [SSRN preprint server](https://dx.doi.org/10.2139/ssrn.3705815).
 
-# Header 1
-## Header 2
-### Header 3
+### File name explanation
 
-- Bulleted
-- List
+* `data_sources.csv`: the URLs to online disclosure venues.
 
-1. Numbered
-2. List
+* `dataset EN.csv`: coded information in English.
 
-**Bold** and _Italic_ and `Code` text
+* `reasons_for_missing_data.csv`: The reasons for missing cases in some prefecturals.
 
-[Link](url) and ![Image](src)
-```
+### Suggested citation
+Liu, Xiao Fan and Xu, Xiao-Ke and Wu, Ye, Mobility, Exposure, and Epidemiological Timelines of COVID-19 Infections in China outside Hubei Province (August 27, 2020). Available at SSRN: https://ssrn.com/abstract=3705815 or http://dx.doi.org/10.2139/ssrn.3705815 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abcdefg3381/COVID-19_China_case_reports/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### License
+This project is licensed under the terms of the Creative Commons Attribution 4.0 International (CC BY 4.0) license. View [license Deed](https://creativecommons.org/licenses/by/4.0/deed.en) and [Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode).
