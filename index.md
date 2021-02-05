@@ -1,3 +1,5 @@
+# Repository for a massive COVID-19 epidemiological dataset
+
 ## What you are expected to find in our datasets
 Chinese prefectural level governments started to report details of confirmed COVID-19 cases online on a daily basis, starting from January 2020. The disclosures may contain the mobility, potential exposure scenario, epidemiological characteristics, and other useful information of individual cases.
 
