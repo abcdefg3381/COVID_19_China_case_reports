@@ -8,7 +8,7 @@ Chinese prefectural level governments started to report daily confirmed COVID-19
 
 We welcome any form of collaborations with us and non-commercial reuse of our dataset. We highly encourage interested parties to examine the data, report errors in our coding, and help us to keep the data updated.
 
-The detailed data description can be found on SSRN preprint server https://dx.doi.org/10.2139/ssrn.3705815.
+The detailed data description can be found on [Scientific Data](https://doi.org/10.1038/s41597-021-00844-8).
 
 ## File name explanation
 
@@ -19,7 +19,7 @@ The detailed data description can be found on SSRN preprint server https://dx.do
 * **reasons_for_missing_data.csv:** The reasons for missing cases in some prefecturals.
 
 ## Suggested citation
-Liu, Xiao Fan and Xu, Xiao-Ke and Wu, Ye, Mobility, Exposure, and Epidemiological Timelines of COVID-19 Infections in China outside Hubei Province (August 27, 2020). Available at SSRN: https://ssrn.com/abstract=3705815 or http://dx.doi.org/10.2139/ssrn.3705815 
+Liu, X.F., Xu, XK. & Wu, Y. Mobility, exposure, and epidemiological timelines of COVID-19 infections in China outside Hubei province. Sci Data 8, 54 (2021). https://doi.org/10.1038/s41597-021-00844-8
 
 ## License
 This project is licensed under the terms of the Creative Commons Attribution 4.0 International (CC BY 4.0) license. View license Deed https://creativecommons.org/licenses/by/4.0/deed.en and Legal Code https://creativecommons.org/licenses/by/4.0/legalcode.
