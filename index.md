@@ -3,7 +3,7 @@ Chinese prefectural level governments started to report details of confirmed COV
 
 We organized a group of content coders since early March 2020, kept monitoring updates from the local health committees (except for the ones in Hubei Province), manually extracted useful information from the public disclosures, and compiled a line-list dataset. The dataset now contains 10,000+ cases and counting.
 
-A detailed data description can be found on [SSRN preprint server](https://dx.doi.org/10.2139/ssrn.3705815).
+A detailed data description can be found on [Scientific Data](https://doi.org/10.1038/s41597-021-00844-8).
 
 ## Call for help
 Fighting COVID-19 is a course for the entire human species. We welcome any form of collaborations with us and reuse of our dataset. We highly encourage interested parties to help examine the data, report errors in our coding, and help us to keep the data updated.
