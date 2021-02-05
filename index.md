@@ -28,7 +28,7 @@ The datasets are stored on our [GitHub repository](https://github.com/abcdefg338
 Special thanks to the the research assistants for their relentless efforts!
 
 ## Suggested citation
-Liu, X.F., Xu, XK. & Wu, Y. Mobility, exposure, and epidemiological timelines of COVID-19 infections in China outside Hubei province. Sci Data 8, 54 (2021). https://doi.org/10.1038/s41597-021-00844-8
+Liu, X.F., Xu, XK. & Wu, Y. Mobility, exposure, and epidemiological timelines of COVID-19 infections in China outside Hubei province. Sci Data 8, 54 (2021). [https://doi.org/10.1038/s41597-021-00844-8](https://doi.org/10.1038/s41597-021-00844-8)
 
 ## A list of supported publications
 The dataset has supported multiple scientific articles since the beginning of the pandemic.
