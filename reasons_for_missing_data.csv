@@ -1,32 +1,32 @@
 province,Number of expected cases,Number of collected cases,Reason for missing data
-Henan,1764,1492,1 case in Nanyang was not announced; 2 cases in Kaifeng were not announced on February 7; 3 cases in Puyang were not announced; 2 cases in Xinxiang (February 16 and February 14) were not announced; 3 cases were missing in Hebi; Details of the 12 imported cases were not announced
+Henan,1797,1504,1 case in Nanyang was not announced; 2 cases in Kaifeng were not announced on February 7; 3 cases in Puyang were not announced; 2 cases in Xinxiang (February 16 and February 14) were not announced; 3 cases were missing in Hebi; Details of the 12 imported cases were not announced
 Xinjiang,1034,5,Fewer case data published
-Zhejiang,1760,1152,"36 were undisclosed cases in Shilifeng Prison,Most cities did not announced the confirmed case information after March 5 except Hangzhou, and the rest could not find specific information about the cases. Details of the 20 imported cases were not announced.Others are all imported from abroad"
-Inner Mongolia,573,219,"Failed to find specific information about the case. All are divided by the Capital Airport to Hohhot Airport, and no details have been announced. Details of the 29 imported cases were not announced."
-Anhui,1031,915,Failed to find specific information about the case
-Ningxia,123,73,Failed to find specific information about the case
-Guangdong,4283,3058,"Failed to find specific information about the case. Details of the 281 imported cases were not announced, others are all imported from abroad"
-Fujian,1391,937,Failed to find specific information about the case. Details of the 102 imported cases were not announced£¬others are all imported from abroad
-Hunan,1204,1076,"Currently missing: Yongzhou 12, Changde 2, Loudi 2, Yueyang 6, Shaoyang 4, Changsha 49 (Incomplete announcements of confirmed cases before January 30 in Changsha City)£¬others are all imported from abroad"
-Gansu,331,245,"Missing cases: Lanzhou, Linxia, Zhangye. Only 28 overseas imported cases have information after June 16."
+Zhejiang,2156,1465,"36 were undisclosed cases in Shilifeng Prison,Most cities did not announced the confirmed case information after March 5 except Hangzhou, and the rest could not find specific information about the cases. Details of the 20 imported cases were not announced.Others are all imported from abroad"
+Inner Mongolia,1158,766,"Failed to find specific information about the case. All are divided by the Capital Airport to Hohhot Airport, and no details have been announced. Details of the 29 imported cases were not announced."
+Anhui,1032,915,Failed to find specific information about the case
+Ningxia,124,74,Failed to find specific information about the case
+Guangdong,4682,3457,"Failed to find specific information about the case. Details of the 281 imported cases were not announced, others are all imported from abroad"
+Fujian,1464,1010,Failed to find specific information about the case. Details of the 102 imported cases were not announced£¬others are all imported from abroad
+Hunan,1241,1076,"Currently missing: Yongzhou 12, Changde 2, Loudi 2, Yueyang 6, Shaoyang 4, Changsha 49 (Incomplete announcements of confirmed cases before January 30 in Changsha City)£¬others are all imported from abroad"
+Gansu,343,245,"Missing cases: Lanzhou, Linxia, Zhangye. Only 28 overseas imported cases have information after June 16."
 Jiangxi,969,532,"Nanchang City did not release specific case information before February 2 (81 cases) Shangrao City did not release specific case information (103 cases) 13 cases in Jiujiang City did not release specific information. Details of the 3 imported cases were not announced, and the rest could not find specific case information"
 Jilin,571,569,Failed to find specific information about the cases.
-Jiangsu,1557,1426,"Top 10 cases in Nanjing, 4 cases in Yangzhou, 5 cases in Changzhou, 5 cases in Lianyungang, 2 cases in Wuxi, 1 case in Suqian"
-Yunnan,1678,747,"From January 27th to January 30th, 51 cases with missing details"
-Heilongjiang,2523,566,"The specific information of the case could not be found: 3 cases in Qiqihar City were not found on January 25-28. No cases in Shuangyashan were found. 2 cases in Suihua City were not found on February 4 and February 14; Seven cases were not found in Heihe City. Eleven cases were not found in Jixi City, and a total of 50 cases were added. It adds up to 53, but the actual number of cases has been reduced to 47."
-Liaoning,725,337,"64 cases were not found. 1 case was not found in Hegang, 2 cases in Daxinganling area were not found"
-Guangxi,367,201,"There are 10 missing cases in Nanning City, Details of 11 imported cases and 7 asymptomatic patients were not announced. 12 missing cases in Beihai City (the seventh case has no detailed information),8 missing cases in Qinzhou City,8 missing cases in Guigang City, 4 missing cases in Hezhou City, and 11 missing cases in Laibin City£¬others are all imported from abroad"
-Tianjin,916,719,Details of some imported overseas. asymptomatic infections and local cases have not been announced£¬others are all imported from abroad
-Shaanxi,847,576,"Among them, 83 cases were imported from abroad, the source was not disclosed,and the rest could not find specific case information. Details of the 164 imported cases were not announced,"
+Jiangsu,1563,1426,"Top 10 cases in Nanjing, 4 cases in Yangzhou, 5 cases in Changzhou, 5 cases in Lianyungang, 2 cases in Wuxi, 1 case in Suqian"
+Yunnan,1821,747,"From January 27th to January 30th, 51 cases with missing details"
+Heilongjiang,2566,566,"The specific information of the case could not be found: 3 cases in Qiqihar City were not found on January 25-28. No cases in Shuangyashan were found. 2 cases in Suihua City were not found on February 4 and February 14; Seven cases were not found in Heihe City. Eleven cases were not found in Jixi City, and a total of 50 cases were added. It adds up to 53, but the actual number of cases has been reduced to 47."
+Liaoning,762,337,"64 cases were not found. 1 case was not found in Hegang, 2 cases in Daxinganling area were not found"
+Guangxi,605,201,"There are 10 missing cases in Nanning City, Details of 11 imported cases and 7 asymptomatic patients were not announced. 12 missing cases in Beihai City (the seventh case has no detailed information),8 missing cases in Qinzhou City,8 missing cases in Guigang City, 4 missing cases in Hezhou City, and 11 missing cases in Laibin City£¬others are all imported from abroad"
+Tianjin,971,764,Details of some imported overseas. asymptomatic infections and local cases have not been announced£¬others are all imported from abroad
+Shaanxi,2519,2237,"Among them, 83 cases were imported from abroad, the source was not disclosed,and the rest could not find specific case information. Details of the 164 imported cases were not announced,"
 Guizhou,159,133,Failed to find specific information about the case. Failed to find specific information about the case"
-Shanghai,1992,1752,Shanghai has not announced specific case information at early time
-Beijing,1548,961,Beijing has not announced the specific information of the confirmed cases at early time. only the jurisdiction of the confirmed cases
-Hebei,621,575,The specific information of the case could not be queried/ Fewer cases 6. Details of the 29 imported cases were not announced
-Chongqing,1548,1501,Failed to find specific information about the cases
-Sichuan,1329,1089,"10 cases in Chengdu have not been announced, 2 cases in Guang'an City have not been announced, Data as of 2.19 Zhongguangyuan City guangyuan-1, 5 case information is duplicated and should be deleted"
+Shanghai,2139,1898,Shanghai has not announced specific case information at early time
+Beijing,1585,982,Beijing has not announced the specific information of the confirmed cases at early time. only the jurisdiction of the confirmed cases
+Hebei,634,584,The specific information of the case could not be queried/ Fewer cases 6. Details of the 29 imported cases were not announced
+Chongqing,1552,1502,Failed to find specific information about the cases
+Sichuan,1391,1089,"10 cases in Chengdu have not been announced, 2 cases in Guang'an City have not been announced, Data as of 2.19 Zhongguangyuan City guangyuan-1, 5 case information is duplicated and should be deleted"
 Qinghai,202,145,Failed to find specific information about the cases
-Shandong,930,678,"There were 200 cases in Rencheng Prison without patient information,no specific patient information was found after 2/23 in Jining City (7 cases),1 case in Binzhou City, 2 cases in Yantai City, Other missing information: 9 cases in Qingdao City1 case in Zaozhuang City"
+Shandong,972,694,"There were 200 cases in Rencheng Prison without patient information,no specific patient information was found after 2/23 in Jining City (7 cases),1 case in Binzhou City, 2 cases in Yantai City, Other missing information: 9 cases in Qingdao City1 case in Zaozhuang City"
 Shanxi,267,56,88 missing before February 7. Details of the 86 imported cases were not announced£¬others are all imported from abroad
 Hainan,207,178,Failed to find specific information about the case
 Tibet,1,1,Failed to find specific information about the cases
-total,32451,21863,
+total,36487,25107,
