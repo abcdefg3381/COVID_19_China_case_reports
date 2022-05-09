@@ -21,5 +21,10 @@ The detailed data description can be found on [Scientific Data](https://doi.org/
 ## Suggested citation
 Liu, X.F., Xu, XK. & Wu, Y. Mobility, exposure, and epidemiological timelines of COVID-19 infections in China outside Hubei province. Sci Data 8, 54 (2021). https://doi.org/10.1038/s41597-021-00844-8
 
+## Automated information extraction using NLP models
+Manual data curation has been costly in the past two years. In fact, these repetitive works can be and should be automated with artificial intelligence. Dr Yuanyuan Sun and her student Mr Zhizheng Wang from Dalian University of Technology collaborated with us and developed a deep-learning based text anaysis framework to extract the information from natural language written texts. Case reports since 2022 are curated with the help of this framework. The code and model are also shared through our repository. 
+
+## Suggested citation
+TBA
 ## License
 This project is licensed under the terms of the Creative Commons Attribution 4.0 International (CC BY 4.0) license. View license Deed https://creativecommons.org/licenses/by/4.0/deed.en and Legal Code https://creativecommons.org/licenses/by/4.0/legalcode.
