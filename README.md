@@ -32,7 +32,7 @@ The "chinese_roberta_wwm_ext_L-12_H-768_A-12" pre-trained chinese language model
 More details can be referred to the README.md in CCIE.zip
 
 ## Online system
-Based on our information extraction framework, CCIE, we provided an online system (http://covid19.caseassistant.top) to help extract structured data fields from open-access COVID-19 case reports. The system can automatically extract the activity trajectory (e.g., places of departure, transit, and destination), infection cycle (such as dates of arrival, symptom onset, quarantine, hospitalization, and confirmation), and the admitted hospital of infected patients. The front page of our system is shown as follows:
+Based on our information extraction framework (CCIE), we provided an online system to help extract structured data fields from open-access COVID-19 case reports. The system can automatically extract the activity trajectory (e.g., places of departure, transit, and destination), infection cycle (such as dates of arrival, symptom onset, quarantine, hospitalization, and confirmation), and the admitted hospital of infected patients. The front page of our system is shown as follows:
 
 https://github.com/abcdefg3381/COVID_19_China_case_reports/blob/main/Front%20Page.jpg
 
