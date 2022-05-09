@@ -26,8 +26,8 @@ Manual data curation has been costly in the past two years. In fact, these repet
 
 ## File name explanation
 
-* **CCIE:** the trained model of CCIE
-More implementation details can be found in the CCIE folder.    
+* **CCIE.zip:** the trained model of CCIE
+The "chinese_roberta_wwm_ext_L-12_H-768_A-12" pre-trained chinese language model should be downloaded into "backup" folder from https://github.com/brightmart/roberta_zh. 
 
 ## Online system
 Based on our information extraction framework, CCIE, we provided an online system (http://covid19.caseassistant.top) to help extract structured data fields from open-access COVID-19 case reports. The system can automatically extract the activity trajectory (e.g., places of departure, transit, and destination), infection cycle (such as dates of arrival, symptom onset, quarantine, hospitalization, and confirmation), and the admitted hospital of infected patients. The front page of our system is shown as follows:
