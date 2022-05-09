@@ -32,7 +32,7 @@ More implementation details can be found in the CCIE folder.
 ## Online system
 Based on our information extraction framework, CCIE, we provided an online system (http://covid19.caseassistant.top) to help extract structured data fields from open-access COVID-19 case reports. The system can automatically extract the activity trajectory (e.g., places of departure, transit, and destination), infection cycle (such as dates of arrival, symptom onset, quarantine, hospitalization, and confirmation), and the admitted hospital of infected patients. The front page of our system is shown as follows:
 
-![image-Fornt%20Page] https://github.com/abcdefg3381/COVID_19_China_case_reports/blob/main/Front%20Page.jpg
+https://github.com/abcdefg3381/COVID_19_China_case_reports/blob/main/Front%20Page.jpg
 
 ## Suggested citation
 Wang, Zhizheng and Liu, Xiao Fan and Du, Zhanwei and Wang, Lin and Wu, Ye and Holme, Petter and Lachmann, Michael and lin, hongfei and Wong, Zoie S. Y. and Xu, Xiao-Ke and Sun, Yuanyuan, Epidemiologic Information Discovery from Open-Access COVID-19 Case Reports Via Pretrained Language Model. Available at SSRN: https://ssrn.com/abstract=4060371.
