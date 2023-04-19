@@ -27,7 +27,7 @@ Manual data curation has been costly in the past two years. In fact, these repet
 ## File name explanation
 
 * **CCIE.zip:** the trained model of CCIE
-* The ** chinese_roberta_wwm_ext_L-12_H-768_A-12 ** pre-trained chinese language model should be downloaded to each folder from https://github.com/brightmart/roberta_zh. 
+* The "chinese_roberta_wwm_ext_L-12_H-768_A-12" pre-trained chinese language model should be downloaded to each folder from https://github.com/brightmart/roberta_zh. 
 
 More details can be referred to the README.md in CCIE.zip
 
